@@ -7,3 +7,5 @@ practice files for swift5 based apps
 
 2. Simple WKWEBVIEW UI (made by Minwoo Kim)
  - simple web browser made with back and forward navigating methods
+<img width="521" alt="ipad" src="https://user-images.githubusercontent.com/49029456/63909932-a9bdc180-ca5f-11e9-99f1-654be5132720.png">
+<img width="232" alt="iphonex" src="https://user-images.githubusercontent.com/49029456/63909933-a9bdc180-ca5f-11e9-9f88-e3894cba7a31.png">
